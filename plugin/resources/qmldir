@@ -1,0 +1,3 @@
+module Whiteboard
+Whiteboard 1.0 Whiteboard.qml
+plugin WhiteboardPlugin

@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>baseline_color_lens_black_36dp.png</file>
+        <file>baseline_edit_black_36dp.png</file>
+        <file>baseline_layers_clear_black_36dp.png</file>
+        <file>Whiteboard.qml</file>
+        <file>Toolbar.qml</file>
+        <file>baseline_accessible_black_36dp.png</file>
+        <file>baseline_brush_black_36dp.png</file>
+        <file>baseline_crop_3_2_black_36dp.png</file>
+        <file>baseline_text_fields_black_36dp.png</file>
+        <file>Editorbar.qml</file>
+        <file>round_touch_app_black_18dp.png</file>
+        <file>baseline_text_format_black_18dp.png</file>
+        <file>baseline_close_black_36dp.png</file>
+        <file>baseline_delete_forever_black_36dp.png</file>
+ 	<file>baseline_radio_button_unchecked_black_18dp.png</file>
+	<file>baseline_call_made_black_18dp.png</file>
+	<file>baseline_remove_black_18dp.png</file>
+	<file>baseline_more_vert_black_18dp.png</file>
+	<file>baseline_arrow_downward_black_36dp.png</file>
+	<file>baseline_arrow_upward_black_36dp.png</file>
+    </qresource>
+</RCC>
