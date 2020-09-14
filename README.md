@@ -1,3 +1,7 @@
+# Charades Whiteboard
+
+Desktop application written in Qt/C++ where users can create custom rooms over Internet and draw simultaneously on “whiteboard”.
+
 # Building project
 Create  **build** directory in main folder and run following command from it:
 ```
